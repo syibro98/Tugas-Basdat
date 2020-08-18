@@ -3,5 +3,5 @@
 
 session_destroy();
 
-header("location: /Data/login.php");
+header("location: /10118052_Akademik/login.php");
 ?>
