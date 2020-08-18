@@ -15,7 +15,7 @@ if(@$_SESSION['admin'] || @$_SESSION['mhs']){
     <link rel="stylesheet" href="assets/css/base.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
-    <title>Login | HayuTravel</title>
+    <title>Login | Mahasiswa</title>
     <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png">
   </head>
   <body>
